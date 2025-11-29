@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Site-1/static/css/main.0d060326.css",
+    "main.js": "/Site-1/static/js/main.7634cb1d.js",
+    "static/media/Космическая.png": "/Site-1/static/media/Космическая.131834a302ae396f1641.png",
+    "static/media/Profile.jpg": "/Site-1/static/media/Profile.3f76fe8d8e6532026390.jpg",
+    "index.html": "/Site-1/index.html",
+    "main.0d060326.css.map": "/Site-1/static/css/main.0d060326.css.map",
+    "main.7634cb1d.js.map": "/Site-1/static/js/main.7634cb1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d060326.css",
+    "static/js/main.7634cb1d.js"
+  ]
+}
